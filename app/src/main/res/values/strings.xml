@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <!-- Category name for castles -->
+    <string name="category_castles">Castles</string>
+
+    <!-- Category name for for caves. -->
+    <string name="category_caves">Caves</string>
+
+    <!-- Category name for cities. -->
+    <string name="category_cities">Cities</string>
+
+    <!-- Category name for mountains. -->
+    <string name="category_mountains">Mountains</string>
+
+    <!-- Location of Castles. -->
+    <string name="ujazd">Cross-Axe Castle</string>
+    <string name="checiny">Checiny Castle</string>
+    <string name="szydlowiec">Szydlowiec Castle</string>
+
+    <!-- Description of Castles. -->
+    <string name="checiny_description">Chęciny Royal Castle was built in the late 13th century in Chęciny, Poland. It fell into ruin in the 18th century and remains in that state to this day.
+        The construction of the fortress probably began in the late 13th century. In the second half of the 16th century, the castle began to decline. In 1588 the parliament ordered to
+        transfer the castle inventories to the Chęciny Church and in 1607, during the Zebrzydowski Rebellion the fortifications and buildings were partially destroyed and burned.
+        The castle briefly regained its former glory due to reconstruction initiated by Stanisław Branicki, starost of Chęciny, but in 1655-1657 it was almost completely destroyed by
+        Swedish-Brandenburgian and Transylvanian troops. The destruction was completed in 1707 during another Swedish occupation.Then, the last residents left the castle.
+        Over the next century the medieval walls become a source of building material for local villagers.
+    </string>
+
+    <string name="ujazd_description">
+        Krzyżtopór  is a castle located in the village of Ujazd, Iwaniska commune, Opatów County, Świętokrzyskie Voivodeship, in southern Poland.
+        It was originally built by a Polish nobleman and Voivode of Sandomierz, Krzysztof Ossoliński (1587–1645).
+        The castle was partially destroyed during the Swedish invasion known as The Deluge in 1655,
+        and then reduced to ruin during the war of the Bar Confederation by the Russians in 1770.
+        The castle, built by Swiss engineer Wawrzyniec (Lawrence) Senes (probably born in Sent, Switzerland),
+        is a typical example of the so-called palazzo in fortezza – an intermingling of both palace and fortress.
+        The total size of the complex is 1.3 hectares; the length of perimeter walls is 700 meters; the total area of all interior rooms is around 70 000 square meters.
+        The basic design was based on the palace of Cardinal Alexander Farnese, located in the Italian village of Caprarola.
+        Reportedly, the castle once had 365 windows (as many as days of the year), 52 rooms (as many as weeks of the year) and 12 ballrooms (as many as months of the year).
+        For defensive purposes, the castle was erected upon a rocky hill, making it impossible for an enemy to organize an underground attack.
+    </string>
+
+    <string name="szydlowiec_description">In the 13th century, there was a knight’s castle in the area of ​​the present castle, which was a center of local lands.
+        It protected the crossing of the river Korzeniówka on the local trade route. Perhaps at the turn of 1259/1260, it was alongside with the village destroyed during the Mongol invasion.
+        In 1550 Szydłowiec passed to the hands of the Radziwiłł family, who held it until the beginning of the 19th century, making further modernizations. In 1821 the castle was bought by Anna Sapieżyna,
+        who sold it to the government of the Kingdom of Poland. In the second half of the 19th century it fell into ruin and was rebuilt in 1951-1952.
+        The castle survived to our times in the form of a renaissance, magnate residence with a readable medieval layout. It now houses the Museum of Popular Musical Instruments.
+        All information about exhibitions, prices and opening times can be found on the official page of the museum here.
+    </string>
+
+    <!-- Location of caves. -->
+    <string name="paradise_location">Paradise Cave</string>
+    <string name="hell_location">SHell Cave</string>
+    <string name="zbojecka_location">Robber Cave</string>
+
+    <!-- Description of caves. -->
+    <string name="paradise_description">While taking a trip to the Swietokrzyskie Region, visitors should exit the E-7, the road from Krakow to Kielce, to see Paradise!
+        The road then leads straight up to the very entrance of the Paradise Cave (Jaskinia Raj) which considered the most beautiful cave complex in Poland.
+        Nature, over the ages, has created this underground complex of breathtaking tunnels and chambers which have been decorated with hundreds of stalagmites, stalactites,
+        pillars and pisoids of various shapes and sizes. A 180 metre underground route was opened especially for tourists who want to admire the fairy-tale like underground world.
+        At the entrance to the cave is an exhibition showing a family living in a reconstruction of a Neanderthal camp. Three life-size figures are shown with the remains of prehistoric animals such as the mammoth, hairy rhinoceros and cave bear.
+    </string>
+
+    <string name="hell_description">The cave has been famous for a very long time as between the 15th and 17th centuries as silver and lead ores were sought in the area.
+        The name “Pieklo”, meaning Hell, was given to the caves by the local people as early as the 18th century. According to legend, it was connected to the very depths of hell and hoards of devils would fly out to cause people harm.
+        The cave is a typical karst void which was created in the limestone rocks from the Devonian period.
+        The total length of the corridors of the cave is about 60m. The horizontal main corridor of approximately 20m is easily accessible, illuminated by natural light which comes in through karst chimneys and beautiful rock window. The side corridors are cramped and difficult to access.
+        Dripstone formations in the cave are modest. Minor fragments of formations, flowstones and stalactites, have been preserved only in the deeper sections. The cave is also a shelter for many species of bats. In 1954, the caves became protected as an inanimate natural monument.
+    </string>
+
+    <string name="zbojecka_description">There is a very interesting place just a few dozen metres from the market square in Lagow,
+        which is the Dule Gorge, with its exposed deposits of limestone and shale as well as the Zbojecka Cave.
+        Legend has it that Dule Gorge was once a huge cave complex that had collapsed with the result that one of the internal had survived and today is called the Zbojecka Cave.
+        The Dule Gorge is a world famous of outcrop of black limestone from the Devonian Era with a rich fauna of cephalopods. The cave is a form of karst cavern, created on the basis of hewn cracks,
+        some as a result of landslides. The total length of corridors measures approximately 160m. Inside, there is an interesting variety of wildlife which includes some of the rarest species of bats in Poland, the red bat,
+        the large brown bat and the lesser horseshoe bat. A trip to the Zbojecka Cave reminds visitors of its times as a stronghold of marauding robbers, that attacked merchants' caravans, of which in the nearby Lagow there was certainly no shortage.
+        The cave is also sometimes visited by its former owner, the robber Madej, but sightings of him are happily very rare. The cave is protected as a natural monument.
+    </string>
+
+    <!-- Location of City. -->
+    <string name="Sandomierz">Sandomierz</string>
+    <string name="Opatow">Opatow</string>
+    <string name="Kielce">Kielce</string>
+    <string name="Kurozweki">Kurozweki</string>
+
+    <!-- Description of Cities. -->
+    <string name="Sandomierz_description">Sandomierz is a town in south-eastern Poland with 25,714 inhabitants (2006), situated in the Świętokrzyskie Voivodeship (since 1999). It is the capital of Sandomierz County (since 1999).
+        Sandomierz is known for its Old Town, which is a major tourist attraction. In the past, Sandomierz used to be one of the most important urban centers not only of Lesser Poland, but also of the whole country.
+    </string>
+
+    <string name="Opatow_description">
+        Opatów  is a town in Poland, in Świętokrzyskie Voivodeship, historic province of Lesser Poland. It is the capital of Opatów County. Its population is 7,833 (2007).
+        Opatów is located among the hills of Lesser Polish Upland, with the Opatówka river dividing the town into two parts.
+        The town marks the intersection of two main roads - European route E371, and national road nr 74 (Piotrków Trybunalski – Hrubieszów). Opatów, however, has no rail connection.
+        Nearest station is at Ostrowiec Świętokrzyski, 17 km (11 mi) away.
+        Tourist attractions include a 12th-century Collegiate Church of St. Martin, 15th-century baroque Bernardine monastery, 16th-century city gate, and several other notable buildings.
+    </string>
+
+    <string name="Kielce_description">
+        Kielce  is a city in south central Poland with 199,475 inhabitants.
+        It has been the capital city of the Świętokrzyskie Voivodeship (Holy Cross Voivodeship) since 1999, and was previously the capital of the predecessor Kielce Voivodeship (1919–1939, 1945–1998).
+        The city is located in the middle of the Świętokrzyskie Mountains (Holy Cross Mountains), on the banks of the Silnica River, in northern part of the historical Polish province of Lesser Poland.
+        The history of Kielce dates back over 900 years and the exact date when the town was founded remains unknown. The name of the city derives from the migrating Celts, who once stopped here during their journey across the European continent.
+        Kielce was once an important centre of limestone mining and the vicinity is famous for its natural resources like copper, lead and iron, which, over the centuries, were exploited on a large scale.
+        There are several fairs and exhibitions held in Kielce throughout the year; the city and its surroundings are also known for their historic architecture, green spaces and recreational areas such as the Świętokrzyski National Park.
+    </string>
+
+    <string name="Kurozweki_description">
+        Kurozwęki is a village in the district of Gmina Staszów, within Staszów County, Świętokrzyskie Voivodeship, in south-central Poland. It lies on the Czarna Staszowska river, in the historic province of Lesser Poland, approximately 6 kilometres (4 mi) north-west of Staszów and 48 km (30 mi) south-east of the regional capital Kielce.
+        The village history dates back to the 13th century. It had city rights from before 1400 to 1870. It has several tourist attractions, including a 14th-century palace, open for visitors, with a bison farm nearby, and a 15th-century church. The village has a population of Decrease 767.
+        Some time in the mid 14th century, local knight Dobiesław of Kurozwęki built here a castle, which became the seat of the Kurozwęcki noble family (see szlachta)
+        At first the castle was of defensive character, but in the course of the time it was remodeled several times. It is not known when exactly Kurozwęki received town charter, most probably it happened before the year 1400. The town belonged to several families – the Kurozwęcki, the Lanckoroński, the Potocki and the Popiel.
+        In the 17th century, when Kurozwęki belonged to Lesser Poland's Sandomierz Voivodeship, it was one of the centers of Protestant Reformation, especially Calvinism. In 1870, the government of Russian-controlled Congress Poland (see Partitions of Poland) deprived it of the town charter.</string>
+
+    <!-- mountains location. -->
+    <string name="lysa_location">Bald Mountain</string>
+    <string name="lysica_location">Lysica</string>
+    <string name="telegraf_location">Telegraph</string>
+
+    <!-- short description. -->
+    <string name="lysica_description">
+        Łysica  is the highest mountain in Świętokrzyskie Mountains of Poland. Its height is 612 metres (2,008 ft).
+        It is located in the Świętokrzyski National Park and there is an abbey below it, on a site that might have been a pagan temple before the times of baptism of Poland.
+    </string>
+
+    <string name="lysa_description">
+        Łysa Góra  (Bald Mountain; also known as Łysiec or Święty Krzyż) is a well-known hill in Świętokrzyskie Mountains, Poland.
+        With a height of 595 metres (1,952 ft), it is the second highest point in that range (after Łysica at 612 meters or 2,008 ft).
+        On its slopes and atop its summit are several hiking trails, the ruins of a pagan wall from 9th century, the Benedictine monastery Święty Krzyż from the 11th century (destroyed during the Second World War, now partially restored), and a Święty Krzyż TV Tower.
+        The mountain also features prominently in a local legend about witches' sabbaths.
+    </string>
+
+    <string name="telegraf_description">Telegraph - the peak of the Świętokrzyskie Mountains, 408 m above sea level belonging to the Dymiński Band. It is also the highest elevation within the administrative borders of the city of Kielce.
+        On the top of the mountain Telegraf stands a radio mast belonging to the Polish Broadcasting Network with a height of 60 m.
+        On the hillside there is a 500-meter ski downhill ski trail with a 100 m level difference. It is equipped with a four-person chair lift installed in place of the previously existing T-bar lift. The downhill course is illuminated, artificially snowed, prepared with a snowcat.
+    </string>
+
+</resources>
