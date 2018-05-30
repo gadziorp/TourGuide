@@ -22,7 +22,7 @@ public class Atraction {
      * Create a constructor.
      *
      * @param description     is the short description.
-     * @param location        is the place location.
+     * @param location        is the attraction location.
      * @param imageResourceId is the drawable resource ID for the image associated with the attraction.
      */
     public Atraction(String description, String location, int imageResourceId) {

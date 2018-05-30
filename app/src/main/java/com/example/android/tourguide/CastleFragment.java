@@ -30,7 +30,7 @@ public class CastleFragment extends Fragment {
         //Find the ListView object in the view hierarchy of the {@link Activity}.
         ListView listView = (ListView) rootView.findViewById(R.id.list);
 
-        //Make the ListView use the PlaceAdapter.
+        //Make the ListView use the Adapter.
         listView.setAdapter(adapter);
 
         return rootView;

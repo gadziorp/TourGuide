@@ -1,15 +1,15 @@
 package com.example.android.tourguide;
 
-import android.content.Context;
-import android.os.Bundle;
-import android.support.v4.app.Fragment;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.AdapterView;
-import android.widget.ListView;
+        import android.content.Context;
+        import android.os.Bundle;
+        import android.support.v4.app.Fragment;
+        import android.view.LayoutInflater;
+        import android.view.View;
+        import android.view.ViewGroup;
+        import android.widget.AdapterView;
+        import android.widget.ListView;
 
-import java.util.ArrayList;
+        import java.util.ArrayList;
 
 public class CitiesFragment extends Fragment {
 
@@ -29,13 +29,13 @@ public class CitiesFragment extends Fragment {
         atractions.add(new Atraction(getResources().getString(R.string.Opatow_description), getResources().getString(R.string.Opatow), R.drawable.opatow));
         atractions.add(new Atraction(getResources().getString(R.string.Kurozweki_description), getResources().getString(R.string.Kurozweki), R.drawable.kurozweki));
 
-        //Create an PlaceAdapter, whose data source is a list of Atractions.
+        //Create an AttractionAdapter, whose data source is a list of Atractions.
         AttractionAdapter adapter = new AttractionAdapter(getActivity(), atractions);
 
         //Find the ListView object in the view hierarchy of the {@link Activity}.
         ListView listView = (ListView) rootView.findViewById(R.id.list);
 
-        //Make the ListView use the PlaceAdapter.
+        //Make the ListView use the Adapter.
         listView.setAdapter(adapter);
 
         return rootView;

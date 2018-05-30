@@ -25,13 +25,13 @@ public class MountainsFragment extends Fragment {
         atractions.add(new Atraction(getResources().getString(R.string.lysica_description), getResources().getString(R.string.lysica_location), R.drawable.lysica));
         atractions.add(new Atraction(getResources().getString(R.string.telegraf_description), getResources().getString(R.string.telegraf_location), R.drawable.telegraf));
 
-        //Create an PlaceAdapter, whose data source is a list of Atractions.
+        //Create an AttractionAdapter, whose data source is a list of Atractions.
         AttractionAdapter adapter = new AttractionAdapter(getActivity(), atractions);
 
         //Find the ListView object in the view hierarchy of the {@link Activity}.
         ListView listView = (ListView) rootView.findViewById(R.id.list);
 
-        //Make the ListView use the PlaceAdapter.
+        //Make the ListView use the Adapter.
         listView.setAdapter(adapter);
 
         return rootView;
