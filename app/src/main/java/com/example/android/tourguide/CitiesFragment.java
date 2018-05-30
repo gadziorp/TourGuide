@@ -30,7 +30,7 @@ public class CitiesFragment extends Fragment {
         atractions.add(new Atraction(getResources().getString(R.string.Kurozweki_description), getResources().getString(R.string.Kurozweki), R.drawable.kurozweki));
 
         //Create an PlaceAdapter, whose data source is a list of Atractions.
-       AttractionAdapter adapter = new AttractionAdapter(getActivity(), atractions);
+        AttractionAdapter adapter = new AttractionAdapter(getActivity(), atractions);
 
         //Find the ListView object in the view hierarchy of the {@link Activity}.
         ListView listView = (ListView) rootView.findViewById(R.id.list);
@@ -40,10 +40,6 @@ public class CitiesFragment extends Fragment {
 
         return rootView;
     }
-
-
-
-
 
 
 }

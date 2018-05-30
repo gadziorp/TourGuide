@@ -9,22 +9,24 @@ public class SiteAdapter extends FragmentPagerAdapter {
 
     private Context mContext;
 
-    public SiteAdapter(Context context, FragmentManager fm){
-        super (fm);
+    public SiteAdapter(Context context, FragmentManager fm) {
+        super(fm);
         mContext = context;
     }
-@Override
+
+    @Override
     public Fragment getItem(int position) {
-    if (position == 0) {
-        return new CastleFragment();
-    } else if (position == 1) {
-        return new CaveFragment();
-    } else if (position == 2) {
-        return new MountainsFragment();
-    } else {
-        return new CitiesFragment();
+        if (position == 0) {
+            return new CastleFragment();
+        } else if (position == 1) {
+            return new CaveFragment();
+        } else if (position == 2) {
+            return new MountainsFragment();
+        } else {
+            return new CitiesFragment();
+        }
     }
-}
+
     /**
      * Return the total number of pages.
      */

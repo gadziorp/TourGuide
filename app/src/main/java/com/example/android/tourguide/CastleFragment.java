@@ -9,7 +9,7 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
-public class CastleFragment extends Fragment{
+public class CastleFragment extends Fragment {
     // Required empty public constructor
     public CastleFragment() {
     }
